@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to set identical column collection and order for all detail grids in a Master-Detail scenario
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4101/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to set an identical column collection for all detail grids.</p><br />
